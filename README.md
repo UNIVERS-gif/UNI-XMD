@@ -21,10 +21,24 @@
 ---
 
 ## 🚀 Deploy Instructions
-
+* FORK MY BOT *
 1. Visit Pair Site: [NIMA PAIR SITE](https://nima-web-pair-2-3.onrender.com)
 2. Copy your session ID
 3. Paste session ID to `config.json` or `.env`
 4. Run:
 ```bash
 node index.js
+<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">UNI-XMD</span><br>
+  <sub><i>ENJOY MY BOT</i></sub>
+</h1>
+<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">VOICE BY</span><br>
+  <sub><i>ASHI GIRL</i></sub>
+</h1>
+<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">UNI-XMD OWNER</span><br>
+  <sub><i>NETHUM AKASH</i></sub>
+</h1>
+^
+_______________°•°_______________^
+<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">CONTACT</span><br>
+  <sub><i>94740021158 / watsapp only</i></sub>
+</h1>
