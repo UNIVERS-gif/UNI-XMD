@@ -20,15 +20,33 @@
 - AI Chat / Image
 - Downloader Commands (.ytmp3, .fb, .tiktok, etc.)
 - Stylish Menu
-- Pairing via [NETHUM OFC PAIR SITE](https://nethum-ofc.vercel.app)
+- Pairing via (https://nima-web-pair-2-3.onrender.com/
+)
 
 ---
 
 ## Owner Info
 - **Bot Name:** UNI-XMD
 - **Owner:** NETHUM OFC
-- **WhatsApp:** 94740021158
+- 
 
 ---
 
-> **Made with love by NETHUM OFC**
+> **Made with  by NETHUM OFC**
+
+
+--
+--
+--
+--
+--
+--
+--
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=MADE+WITH+NETHUM-AKASH;BOT+NAME+UNI-XMD;ENJOY+MY+WATSAPP+BOT" alt="Typing SVG">
+</h1>
+
+
+
