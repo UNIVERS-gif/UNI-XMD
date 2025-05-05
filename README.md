@@ -3,7 +3,11 @@ u<h1 align="center">
   <span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">UNI-XMD</span><br>
   <sub><i>POWERED BY NETHUM OFC</i></sub>
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
+</p>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
 </p>
