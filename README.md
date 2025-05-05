@@ -1,44 +1,34 @@
 <p align="center">
-  <img src="https://files.catbox.moe/jsbi4r.png" alt="UNI-XMD Logo" width="300"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
+  <img src="https://your-link-to-animated-logo.gif" alt="UNI-XMD Logo" width="300"/>
 </p>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=voice+by+ashi-girl;enjoy+my+Whatsapp+Bot+;CREATED+NETHUM+AKASH" alt="Typing SVG" />I
-</p>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+UNI-XMD;POWERED+BY+NETHUM+OFC" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
+  <a href="https://heroku.com/deploy?template=https://github.com/YourUsername/UNI-XMD"><img src="https://img.shields.io/badge/Heroku-Deploy-blue?style=for-the-badge&logo=heroku" /></a>
+  <a href="https://railway.app/new/template?template=https://github.com/YourUsername/UNI-XMD"><img src="https://img.shields.io/badge/Railway-Deploy-black?style=for-the-badge&logo=railway" /></a>
+  <a href="https://vercel.com/import/project?template=https://github.com/YourUsername/UNI-XMD"><img src="https://img.shields.io/badge/Vercel-Deploy-dark?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-## ✨ Features
+## Features
+- Auto voice
+- Auto status seen
+- AI Chat / Image
+- Downloader Commands (.ytmp3, .fb, .tiktok, etc.)
+- Stylish Menu
+- Pairing via [NETHUM OFC PAIR SITE](https://nethum-ofc.vercel.app)
 
-- [x] Downloader Commands (`ytmp3`, `ytmp4`, `fb`, `ig`, `mediafire`, `tiktok`)
-- [x] AI Chat & Image Generator
-- [x] System Tools (`alive`, `menu`, `ping`, `restart`, `setting`)
-- [x] Pair Site Integration
-- [x] Beautiful README & Logo
+---
+
+## Owner Info
+- **Bot Name:** UNI-XMD
+- **Owner:** NETHUM OFC
+- **WhatsApp:** 94740021158
 
 ---
 
-## 🚀 Deploy Instructions
-* FORK MY BOT *
-1. Visit Pair Site: [NIMA PAIR SITE](https://nima-web-pair-2-3.onrender.com)
-2. Copy your session ID
-3. Paste session ID to `config.json` or `.env`
-4. Run:
-```bash
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=voice+by+ashi-girl;enjoy+my+Whatsapp+Bot+;CREATED+NETHUM+AKASH" alt="Typing SVG" />I
-</p>
-
----
+> **Made with love by NETHUM OFC**
