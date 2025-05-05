@@ -30,12 +30,6 @@
 node index.js
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ENJOY MY BOT+YE+UNI-XMD;" alt="Typing SVG" />
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=UNI XMD+VOICE BY+ASHU-GIRL+Thanks ashi;" alt="Typing SVG" />
-</p>
-______________•°•°•°•°•°°•°•°•_________________
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=NETHUM AKASH+CONTACT +NUMBER+ 94740021158;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
 </p>
