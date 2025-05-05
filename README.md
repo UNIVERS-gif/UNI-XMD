@@ -34,5 +34,7 @@ u<h1 align="center">
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+UNI-XMD;Powerful+Whatsapp+Bot+Base;By+NETHUM+OFC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=voice+by+ashi-girl;enjoy+my+Whatsapp+Bot+;CREATED+NETHUM+AKASH" alt="Typing SVG" />I
 </p>
+
+---
