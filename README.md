@@ -30,25 +30,12 @@
 node index.js
 
 
-<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">UNI-XMD</span><br>
-  <sub><i>ENJOY MY BOT</i></sub>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ENJOY MY BOT+YE+UNI-XMD;" alt="Typing SVG" />
+</p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=UNI XMD+VOICE BY+ASHU-GIRL+Thanks ashi;" alt="Typing SVG" />
+</p>
+______________•°•°•°•°•°°•°•°•_________________
 
-<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">VOICE BY</span><br>
-  <sub><i>ASHI GIRL</i></sub>
-</h1>
-
-
-<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">UNI-XMD OWNER</span><br>
-  <sub><i>NETHUM AKASH</i></sub>
-</h1>
-
-
-^
-_______________°•°_______________^
-
-
-<span style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">CONTACT</span><br>
-  <sub><i>94740021158 / watsapp only</i></sub>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=NETHUM AKASH+CONTACT +NUMBER+ 94740021158;" alt="Typing SVG" />
+</p>
