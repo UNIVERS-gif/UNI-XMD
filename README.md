@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://your-link-to-animated-logo.gif" alt="UNI-XMD Logo" width="300"/>
+  <img src="https://files.catbox.moe/99adkl.png" alt="UNI-XMD Logo" width="300"/>
 </p>
 
 <h1 align="center">
