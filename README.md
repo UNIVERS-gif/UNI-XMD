@@ -224,9 +224,7 @@ UNI-XMD 😙🎉️👿
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=SUCCESS+YOU+DEPLOY+BOT" alt="Typing SVG" /></a>
 
 ----
-<p align="center">
-  <img src="https://files.catbox.moe/sqnqjt.mp4" alt="Flying Falcon" width="300" />
-</p>
+[![Watch Video](https://img.youtube.com/vi/sqnqjt/0.jpg)](https://files.catbox.moe/sqnqjt.mp4)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
