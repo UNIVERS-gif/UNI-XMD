@@ -48,5 +48,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=MADE+WITH+NETHUM-AKASH;BOT+NAME+UNI-XMD;ENJOY+MY+WATSAPP+BOT" alt="Typing SVG">
 </h1>
 
-
-
+-----------
+\ DEPLOY /🎉️
+> FORK AND STAR MY REPO😙
+> GO PAIR SITE 😙
+> GANERATE PAIR CODE😙
+> LINL YOUR DEVICE😙
+> GO YOU WATSAPP GO "you"😙
+> CHEK MASEJ😙
+> COPY NIMA SESSION ID😙
+> PASTE SEASON JSON OR INDEX OR PACKAGE JSON😙
+>TOUCH HEROKU DEPLOY BOTTON😙
+> TEST BOT /  test cmd
+>   👿          1 MENU 💖
+>   👿          2 PING 💬
+>   👿          3 Alive ⛔
+>   👿          
