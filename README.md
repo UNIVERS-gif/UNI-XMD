@@ -118,7 +118,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=UNI-XMD+1V;DIPLOY+-+YOU+-+POWERED+BY;NETHUM+OFC;VOICE+BY;ASHI+THANKS;OPEN AI+THANKS+👿+👿+👿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=UNI-XMD+1V;DIPLOY+-+YOU+-+POWERED+BY;NETHUM+OFC;VOICE+BY;ASHI+THANKS;" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=BOT+OWNER+CONTACT+%2B94760743488" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=BOT+OWNER+CONTACT+%2B94740021158" alt="Typing SVG" />
