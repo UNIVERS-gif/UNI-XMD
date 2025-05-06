@@ -229,3 +229,10 @@ UNI-XMD 😙🎉️👿
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+</p> 
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Moonrocks&size=65&pause=1000&color=0DFDFD&background=2C2C2C00&center=true&vCenter=true&width=1000&height=150&lines=ENJOY+MY+BOT+UNI+XMD;PAIR+WEB+NIMA;THANKS+NIMA" alt="Typing SVG" />
+</a>
+</p>
+
