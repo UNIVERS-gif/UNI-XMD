@@ -90,8 +90,7 @@ UNI-XMD 😙🎉️👿
 ----------
 
 ## PAIR WEB INFO + 
--  https://nima-web-pair-2-3.onrender.com/
-
+-  [![PAIR WITH NIMA-MD](https://img.shields.io/badge/PAIR%20NOW%20-%2300ffcc.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://nima-web-pair-2-3.onrender.com/)
 *THANK YOU NIMA PAIR WEB* 🎉️
 
 <!-- RAINBOW LINE BOT -->
