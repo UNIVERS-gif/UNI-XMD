@@ -1,0 +1,15 @@
+{
+  "name": "uni-xmd",
+  "version": "1.0.0",
+  "description": "UNI-XMD WhatsApp Bot powered by NETHUM OFC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NETHUM OFC",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.0.0"
+  }
+}
