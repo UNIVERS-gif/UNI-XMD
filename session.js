@@ -1,1 +1,13 @@
-{"session": "NIMA-MD&tHNTVKZb#T3mrk3Ss9yqH-3Mg5N0yjlFRYYtvwPVtHdRiu2IVR4E"}
+{
+  "creds": {
+    "noiseKey": {},
+    "signedIdentityKey": {},
+    "signedPreKey": {},
+    "registrationId": 1234567890,
+    "account": {},
+    "me": {},
+    "signalIdentities": [],
+    "lastAccountSyncTimestamp": 0,
+    "myAppStateKeyId": "app-state-key-id"
+  }
+}
