@@ -49,18 +49,21 @@
 </h1>
 
 -----------
-\ DEPLOY /🎉️
-> FORK AND STAR MY REPO😙
-> GO PAIR SITE 😙
-> GANERATE PAIR CODE😙
-> LINL YOUR DEVICE😙
-> GO YOU WATSAPP GO "you"😙
-> CHEK MASEJ😙
-> COPY NIMA SESSION ID😙
-> PASTE SEASON JSON OR INDEX OR PACKAGE JSON😙
->TOUCH HEROKU DEPLOY BOTTON😙
-> TEST BOT /  test cmd
+## DEPLOY ##🎉️
+- FORK AND STAR MY REPO😙
+- GO PAIR SITE 😙
+- GANERATE PAIR CODE😙
+- LINL YOUR DEVICE😙
+- GO YOU WATSAPP GO "you"😙
+- CHEK MASEJ😙
+- COPY NIMA SESSION ID😙
+- PASTE SEASON JSON OR INDEX OR PACKAGE JSON😙
+- TOUCH HEROKU DEPLOY BOTTON😙
+- TEST BOT /  test cmd
 >   👿          1 MENU 💖
 >   👿          2 PING 💬
 >   👿          3 Alive ⛔
 >   👿          
+
+
+----------
