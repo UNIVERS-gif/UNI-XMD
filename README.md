@@ -218,5 +218,12 @@
 ### සටහන:
 - Bot එක free-tier plan එකේ deploy කිරීමෙන් පසු, Bot එක inactive වීමේ අවස්ථා ඇත. Premium plan එකක් upgrade කිරීමෙන් active hours වැඩි කර ගත හැක.
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=මේ+විදියට+හදාගන්නෝ🎉️🎉️" alt="Typing SVG" />
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C43F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=මේ+විදියට;හදාගන්නෝ🎉️" alt="Typing SVG" /></a>
+
+----
+
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
