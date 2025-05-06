@@ -1,4 +1,4 @@
-<!-- RAINBOW LINE BOT -->
+ය්<!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
@@ -218,5 +218,5 @@
 ### සටහන:
 - Bot එක free-tier plan එකේ deploy කිරීමෙන් පසු, Bot එක inactive වීමේ අවස්ථා ඇත. Premium plan එකක් upgrade කිරීමෙන් active hours වැඩි කර ගත හැක.
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=මේ+විදියට+හදාගන්නෝ🎉️🎉️+%2B94740021158" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=මේ+විදියට+හදාගන්නෝ🎉️🎉️" alt="Typing SVG" />
 
