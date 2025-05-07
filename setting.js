@@ -11,7 +11,7 @@ global.autoVoiceReply = true; // Enable auto voice reply (you need to implement 
 global.packname = 'UNI-MDX';
 global.author = 'NETHUM OFC';
 global.footer = 'POWERED BY NETHUM OFC';
-global.sessionName = 'session'; // Name of session file
+global.sessionName = 'NIMA-MD&1eFBiLYJ#-L46UAkV5hXKwyaNQn_Ivd0vz5WV5fCE4xxKJW_12-I'; // Name of session file
 global.prefix = ['.']; // Command prefix
 
 // Message responses
